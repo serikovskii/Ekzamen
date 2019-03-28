@@ -1,0 +1,11 @@
+c:\users\мукушева.corp\source\repos\EkzamenWork\EkzamenWork\bin\Debug\EkzamenWork.exe.config
+c:\users\мукушева.corp\source\repos\EkzamenWork\EkzamenWork\bin\Debug\EkzamenWork.exe
+c:\users\мукушева.corp\source\repos\EkzamenWork\EkzamenWork\bin\Debug\EkzamenWork.pdb
+c:\users\мукушева.corp\source\repos\EkzamenWork\EkzamenWork\obj\Debug\EkzamenWork.csprojAssemblyReference.cache
+c:\users\мукушева.corp\source\repos\EkzamenWork\EkzamenWork\obj\Debug\EkzamenWork.csproj.CoreCompileInputs.cache
+c:\users\мукушева.corp\source\repos\EkzamenWork\EkzamenWork\obj\Debug\EkzamenWork.exe
+c:\users\мукушева.corp\source\repos\EkzamenWork\EkzamenWork\obj\Debug\EkzamenWork.pdb
+c:\users\мукушева.corp\source\repos\EkzamenWork\EkzamenWork\bin\Debug\Newtonsoft.Json.dll
+c:\users\мукушева.corp\source\repos\EkzamenWork\EkzamenWork\bin\Debug\Newtonsoft.Json.pdb
+c:\users\мукушева.corp\source\repos\EkzamenWork\EkzamenWork\bin\Debug\Newtonsoft.Json.xml
+c:\users\мукушева.corp\source\repos\EkzamenWork\EkzamenWork\obj\Debug\EkzamenWork.csproj.CopyComplete
